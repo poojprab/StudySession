@@ -1,0 +1,1 @@
+- [[General Form:::type[] arrayName;]]- The above [[only creates a reference]] to an array object, but [[no array has  actually been created yet]].## Creating an Array (Instantiation) &&HARD&&

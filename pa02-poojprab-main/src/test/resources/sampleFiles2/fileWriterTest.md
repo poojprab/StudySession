@@ -1,0 +1,1 @@
+- In Java, arrays are objects, and must be created dynamically (at runtime).
